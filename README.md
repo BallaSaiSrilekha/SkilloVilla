@@ -17,4 +17,16 @@ Avg. Delivery Charges                   On an average what is the delivery charg
 
 Avg Cost for two                        Cost for two is approximate spent for creating meal
 
+Number of images per restaurant         Count of images listed per restaurant on menu page
+
+Success Rate of payments                Ratio of successful transactions and payments initiated
+
+
+
+
+
+
+
+
+
 
